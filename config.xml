@@ -18,3 +18,4 @@
     </author>
 
 </widget>
+<preference name="orientation" value="portrait" />
