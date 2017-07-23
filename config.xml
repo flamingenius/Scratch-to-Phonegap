@@ -16,6 +16,8 @@
     <author href="http://scratch.mit.edu/users/[Your Username]" email="[Your Email]">
         [Your Username]
     </author>
+        
+<preference name="Orientation" value="landscape" />
 
 </widget>
 
