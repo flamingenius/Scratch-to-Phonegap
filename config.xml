@@ -5,9 +5,6 @@
         versionCode = "10" 
         version     = "1.0.0" >
         
-        <platform name="ios">
-  <icon src="icon-60@3x.png" width="180" height="180" />
-</platform>
 
     <!-- versionCode is optional and Android only -->
 
